@@ -3,27 +3,27 @@
             {
                 "gameId": 1,
                 "title": "Overwatch",
-                "image": "src\assets\images\games\overwatch.jpg"
+                "image": "src/assets/images/games/overwatch.jpg"
             },
             {
                 "gameId": 2,
                 "title": "Rainbow 6 Seige",
-                "image": "src\assets\images\games\rainbow-six-seige.jpg"
+                "image": "src/assets/images/games/rainbow-six-seige.jpg"
             },
             {
                 "gameId": 3,
                 "title": "Rocket League",
-                "image": "src\assets\images\games\rocketleague.jpg"
+                "image": "src/assets/images/games/rocketleague.jpg"
             },
             {
                 "gameId": 3,
                 "title": "Madden 20",
-                "image": "src\assets\images\games\madden-twenty.jpg"
+                "image": "src/assets/images/games/madden-twenty.jpg"
             },
             {
                 "gameId": 3,
                 "title": "PUBG",
-                "image": "src\assets\images\games\pubg.jpg"
+                "image": "src/assets/images/games/pubg.jpg"
             }
     ],
     "tournaments": [
