@@ -1,0 +1,67 @@
+{
+    "games": [
+            {
+                "gameId": 1,
+                "title": "Overwatch",
+                "image": "src\assets\images\games\overwatch.jpg"
+            },
+            {
+                "gameId": 2,
+                "title": "Rainbow 6 Seige",
+                "image": "src\assets\images\games\rainbow-six-seige.jpg"
+            },
+            {
+                "gameId": 3,
+                "title": "Rocket League",
+                "image": "src\assets\images\games\rocketleague.jpg"
+            },
+            {
+                "gameId": 3,
+                "title": "Madden 20",
+                "image": "src\assets\images\games\madden-twenty.jpg"
+            },
+            {
+                "gameId": 3,
+                "title": "PUBG",
+                "image": "src\assets\images\games\pubg.jpg"
+            }
+    ],
+    "tournaments": [
+        {
+            "tournamentId": 1,
+            "gameTitle": "Overwatch",
+            "state": "REGISTRATION",
+            "startDateTime": "2020-01-19T20:02:12.322Z"
+        },
+        {
+            "tournamentId": 2,
+            "gameTitle": "Overwatch",
+            "state": "REGISTRATION",
+            "startDateTime": "2020-01-19T20:02:12.322Z"
+        },
+        {
+            "tournamentId": 3,
+            "gameTitle": "Overwatch",
+            "state": "REGISTRATION",
+            "startDateTime": "2020-01-19T20:02:12.322Z"
+        },
+        {
+            "tournamentId": 4,
+            "gameTitle": "PUBG",
+            "state": "REGISTRATION",
+            "startDateTime": "2020-01-19T20:02:12.322Z"
+        },
+        {
+            "tournamentId": 5,
+            "gameTitle": "Rocket League",
+            "state": "REGISTRATION",
+            "startDateTime": "2020-01-19T20:02:12.322Z"
+        },
+        {
+            "tournamentId": 6,
+            "gameTitle": "Madden",
+            "state": "REGISTRATION",
+            "startDateTime": "2020-01-19T20:02:12.322Z"
+        }
+    ]
+}
